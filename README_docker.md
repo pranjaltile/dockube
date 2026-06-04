@@ -410,4 +410,3 @@ docker pull localhost/myproject/myapp:v1           # pull from Harbor
 
 ---
 
-*Built as part of DevOps learning journey — Day 1 hands-on project.*
