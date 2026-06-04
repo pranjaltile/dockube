@@ -543,14 +543,4 @@ curl http://localhost:9080/
 
 ---
 
-## 📚 What's Next — Project 3
 
-Add **Wazuh** security monitoring to watch your K8s cluster:
-- Install Wazuh agent on Minikube nodes
-- Monitor container logs and K8s events
-- Set up alerts for suspicious activity
-- View security dashboard
-
----
-
-*Built as part of DevOps learning journey — Day 2 hands-on project.*
